@@ -1,2 +1,2 @@
-# text_changer
-changing a string in a text or code
+# text/code_changer/rename tool
+changing a string in a text or code 
